@@ -1,0 +1,7 @@
+{
+  "name": "ochapa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
